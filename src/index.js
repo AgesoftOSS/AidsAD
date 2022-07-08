@@ -141,11 +141,3 @@ class AidsAD {
         console.log("AD Catagory: " + this.ADCatagory + "\nAD Resolution: " + this.ADResolution + "\nAidsAD Version: v" + this.#Version)
      }
 }
-
-const adis = new AidsAD;
-adis.ADCatagory = adis.Catagories.Testbench;
-adis.ADResolution = adis.Resolution.Billboard;
-adis.createIframeAD(document.getElementById("adcontain"))
-adis.createIframeAD(document.getElementById("ac2"))
-//adis.createImageAD(document.getElementById('Ad'), document.getElementById('ADcontainer'), "https://github.com/tensorflow/tensorflow/commit/695dce02ac24d6b46b6265141c9bd3c2094b974a")
-adis.debugData();
