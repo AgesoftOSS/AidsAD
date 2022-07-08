@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300;400;600;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li, a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.rer:visited {
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 10%;
+
+    background-color: #e8e8e8;
+    color: black;
+}
+
+.nav_links li {
+    display: inline-block;
+    justify-content: space-around;
+    padding: 0px 20px;
+}
+
+.logo, .logo:visited {
+    color: black;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    transition: 0.1s;
+}
+
+.logo:hover{
+    color: #4f4e4e;
+}
+
+.rer, .rer:visited {
+    color: black;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    transition: 0.2s;
+}
+
+.rer:hover{
+    color: #4f4e4e;
+}
+
+.htxt, .atxth, .atxthh, .bh, .tosh, .toslh, .ahtxt {
+    margin-top: 40px;
+    text-align: center;
+    color: black;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.htxtt, .atxt, .btxt, .tostxt, .ahtxtt, .productname, .productdesc {
+    text-align: center;
+    color: black;
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.centre {
+    text-align: center;
+}
+
+.btn, .btnn {
+    font-family: 'IBM Plex Sans', sans-serif;
+    border: none;
+    font-size: 20px;
+    background-color: #618bff;
+    padding: 10px 20px;
+    margin-bottom: 50px;
+    transition: 0.2s;
+}
+
+.btn:hover {
+    background-color: #3b57a3;
+}
+
+.atxth {
+    font-size: 50px;
+}
+
+.atxthh {
+    font-size: 35px;
+}
+
+.bh {
+    font-size: 25px;
+}
+
+.btxt {
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+.flexxy {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.benifitpart {
+    margin: 0px 20px;
+}
+
+.btnlink, .btnlink:visited {
+    color: white;
+}
+
+.links, .links:visited {
+    color: #3d7ac4;
+    transition: 0.2s;
+}
+
+.links:hover {
+    color: #3469a8;
+}
+
+.hc, .ahc, .shc {
+    padding: 20px 0px;
+    background-color: #434eb0;
+}
+
+.htxt, .htxtt {
+    color: white;
+}
+
+.ahc {
+    background-color: #439acc;
+}
+
+.shc {
+    background-color: #303e52;
+    padding: 40px 0px;
+}
+
+.tosh, .toslh, .tostxt {
+    text-align: left;
+    padding: 0px 80px;
+}
+
+.toslh {
+    font-size: 25px;
+}
+
+.tosl {
+    font-weight: 700;
+    text-align: left;
+    padding: 0px 80px;
+    font-size: 20px;
+    color: black;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.product {
+    padding: 10px 80px;
+}
+
+.productname, .productdesc {
+    text-align: left;
+    margin: 15px 0px;
+    font-size: 25px;
+}
+
+.productdesc {
+    font-size: 18px;
+}
+
+footer {
+    background-color: #e3e3e3;
+}
+
+.feetlink, .feetlink:visited {
+    margin: 10px 30px;
+    font-size: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: #242424;
+}
+
+.copyfeet {
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: #242424;
+    text-align: center;
+    padding: 20px 0px;
+}
