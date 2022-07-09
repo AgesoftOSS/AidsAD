@@ -10,7 +10,7 @@
  * 
  * Image or Iframe
 */
-class AidsAD {
+export default class AidsAD {
     #Version = 1.0;
     #Ads = []
     #AdPictures = []

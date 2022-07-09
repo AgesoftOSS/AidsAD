@@ -34,6 +34,8 @@ include the Javascript File in your website:
 and start creating the ad:
 
 ```js
+import AidsAD from "./src/index.js";
+
 const ad = new AidsAD;
 ad.ADCatagory = ad.Catagories.Testbench;
 ad.ADResolution = ad.Resolution.Square;
