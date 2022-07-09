@@ -1,6 +1,7 @@
 # AidsAD
 
-> **This Section is for the site owners who wants to add Ads in their site**
+> **This Section is for the site owners who wants to add Ads in their site**<br>
+> Visit the [Advertice.md](https://github.com/AgesoftOSS/AidsAD/blob/main/Advertice.md) or [Become a adverticer](https://agesoftoss.github.io/AidsAD/Site/adverticer.html) page
 
 <br>
 
