@@ -1,4 +1,4 @@
-# C++ AidsAD
+# Java AidsAD
 
 <h3><i>Ads are Aids! <br>- Developer</i></h3><br>
 

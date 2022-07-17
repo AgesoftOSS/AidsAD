@@ -2,6 +2,12 @@
 
 > **This Section is for the site owners who wants to add Ads in their site**<br>
 > Visit the [Advertice.md](https://github.com/AgesoftOSS/AidsAD/blob/main/Advertice.md) or [Become a adverticer](https://agesoftoss.github.io/AidsAD/Site/adverticer.html) page
+<br>
+
+**AidsAD is avaible for other coding languages too:**<br>
+[AidsAD Java](https://github.com/AgesoftOSS/AidsAD/tree/main/src/Java/com/agesoft/aidsad)<br>
+[AidsAD++](https://github.com/AgesoftOSS/AidsAD/tree/main/src/C%2B%2B)<br>
+[AidsAD Original Javascript](https://github.com/AgesoftOSS/AidsAD/tree/main/src/Javascript)
 
 <br>
 
